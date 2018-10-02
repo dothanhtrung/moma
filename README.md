@@ -1,3 +1,2 @@
-# moma
-
-Money Manager GTK app written in Rust
+# MOMA - Money Manager
+A hobby project to learn gtk and rust.
